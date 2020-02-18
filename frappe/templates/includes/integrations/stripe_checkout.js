@@ -20,7 +20,6 @@ var style = {
 };
 
 var card = elements.create('card', {
-	hidePostalCode: true,
 	style: style
 });
 
